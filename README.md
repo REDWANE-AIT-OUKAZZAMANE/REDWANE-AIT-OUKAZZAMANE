@@ -31,7 +31,7 @@ const redwan = {
     technologies: {
         backend: {
             java: ["Spring Boot", "Spring Security"],
-            js: ["Node.js", "Express"],
+            js: ["Node.js", "Express", "NestJs"],
             python: ["Django", "Flask"]
         },
         frontend: {
@@ -82,7 +82,7 @@ const redwan = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/redwane-ait-oukazzamane-b293a526a/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/REDWANE-AIT-OUKAZZAMANE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/REDWANE-AIT-OUKAZZAMANE/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://redwane-ait-oukazzamane.github.io/Portfolio/)
 
 </div>
 
