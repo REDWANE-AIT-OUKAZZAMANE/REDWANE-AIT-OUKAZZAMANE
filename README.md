@@ -17,7 +17,7 @@ Hello! 👋 Here's what I'm up to:
 🌱 Learning:          Advanced Vue.js and Spring Boot Microservices
 👯 Open to:           Collaborating on innovative Full Stack projects
 🤝 Looking for:       Opportunities in Full Stack Development
-💬 Ask me about:      Vue.js, Spring Boot, or Full Stack Development
+💬 Ask me about:      NexJs, React, Angular, Vue.js, Spring Boot, NodeJs or Full Stack Development
 📫 Reach me at:       [LinkedIn](https://www.linkedin.com/in/redwane-ait-oukazzamane-b293a526a/)
 🌍 Location:          Casablanca, Morocco
 ⚡ Fun fact:          I enjoy building both frontend and backend solutions!
@@ -48,22 +48,27 @@ const redwan = {
 
 ## 🚀 Featured Projects
 
-### 1. BLOGIFAY
+### 1. Piktochart 
+-📝 implements a comprehensive shopping experience for Acme Widget Co.
+-💻 Advanced discount calculation
+-🎨 Clean and intuitive user interface
+
+### 2. BLOGIFAY
 - 📝 A modern blogging platform built with Vue.js
 - 🎨 Clean and intuitive user interface
 - 🔄 Dynamic content management
 
-### 2. Bookme
+### 3. Bookme
 - 🏨 Booking management system
 - 💻 Built with JavaScript
 - 🔐 Secure user authentication
 
-### 3. IT Support System
+### 4. IT Support System
 - 🛠️ Comprehensive IT support management
 - ☕ Built with Java
 - 📊 Ticket tracking and management
 
-### 4. SMWall - Social Media Aggregator
+### 5. SMWall - Social Media Aggregator
 - 🔄 Real-time social media content aggregation
 - 🔍 Smart content moderation
 - 🎨 Customizable layouts
@@ -82,7 +87,7 @@ const redwan = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/redwane-ait-oukazzamane-b293a526a/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/REDWANE-AIT-OUKAZZAMANE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://redwane-ait-oukazzamane.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.oukazzamane.com/)
 
 </div>
 
