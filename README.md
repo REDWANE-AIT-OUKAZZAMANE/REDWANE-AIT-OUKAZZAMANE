@@ -49,9 +49,10 @@ const redwan = {
 ## 🚀 Featured Projects
 
 ### 1. Piktochart 
--📝 implements a comprehensive shopping experience for Acme Widget Co.
--💻 Advanced discount calculation
--🎨 Clean and intuitive user interface
+- 📝 A modern blogging platform built with Vue.js
+- 🎨 Clean and intuitive user interface
+- 💻 Advaced discount calculations
+- 🔄 Dynamic content management
 
 ### 2. BLOGIFAY
 - 📝 A modern blogging platform built with Vue.js
